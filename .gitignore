@@ -1,1 +1,13 @@
-/.venv/
+.venv/
+
+__pycache__/
+
+*.pyc
+
+.idea/
+
+.env
+
+creds/
+
+*.json
